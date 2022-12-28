@@ -1,6 +1,7 @@
 let numero
 let suma
 let parrafo = document.getElementById("parrafo")
+let prueba = document.getElementById("hola")
 
 function sumarVariables() 
 {
@@ -14,3 +15,4 @@ function sumarVariables()
 }
 
 parrafo.innerHTML = "Hello DOM " + sumarVariables ()
+prueba.innerHTML = "Esto va para git desde js"

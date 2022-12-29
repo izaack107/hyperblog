@@ -15,4 +15,4 @@ function sumarVariables()
 }
 
 parrafo.innerHTML = "Hello DOM " + sumarVariables ()
-prueba.innerHTML = "Esto va para git desde js"
+prueba.innerHTML = "Esto va para git desde js. Esto es una prueba desde js para hacer commits desde github"

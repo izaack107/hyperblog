@@ -20,5 +20,7 @@ Desde crear mi entorno de trabajo en linux, hasta manejar repositorio en github,
 
 ------------
 
+Hola estoy aprendiendo
+
 
 Espero seguir aprendiendo y conseguir mi primer trabajo en la industria de la tecnologia como desarrollador web
